@@ -1,18 +1,26 @@
 .odd{
 <<<<<<< HEAD
+<<<<<<< HEAD
     background-color: rgb(255, 140, 140);
 =======
     background-color: rgb(241, 69, 69);
 >>>>>>> 858c96f (second excercise done)
+=======
+    background-color: rgb(255, 140, 140);
+>>>>>>> 0359908 (corrected bigger font-size in id='second')
     font-family: Verdana, 'DejaVu Sans', sans-serif;
 }
 
 #second{
     color: rgb(0, 0, 255);
 <<<<<<< HEAD
+<<<<<<< HEAD
     font-size: 36px;
 =======
 >>>>>>> 858c96f (second excercise done)
+=======
+    font-size: 36px;
+>>>>>>> 0359908 (corrected bigger font-size in id='second')
 }
 
 .odd.third{
