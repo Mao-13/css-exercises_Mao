@@ -1,11 +1,18 @@
 .odd{
+<<<<<<< HEAD
     background-color: rgb(255, 140, 140);
+=======
+    background-color: rgb(241, 69, 69);
+>>>>>>> 858c96f (second excercise done)
     font-family: Verdana, 'DejaVu Sans', sans-serif;
 }
 
 #second{
     color: rgb(0, 0, 255);
+<<<<<<< HEAD
     font-size: 36px;
+=======
+>>>>>>> 858c96f (second excercise done)
 }
 
 .odd.third{
@@ -13,7 +20,11 @@
 }
 
 #fourth{
+<<<<<<< HEAD
     background-color: rgb(120, 247, 120);
+=======
+    background-color: rgb(0 , 255, 0);
+>>>>>>> 858c96f (second excercise done)
     font-size: 24px;
     font-weight: bold;
 }
