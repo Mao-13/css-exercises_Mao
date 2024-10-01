@@ -30,6 +30,7 @@
 #fourth{
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     background-color: rgb(120, 247, 120);
 =======
     background-color: rgb(0 , 255, 0);
@@ -37,6 +38,9 @@
 =======
     background-color: rgb(134, 243, 134);
 >>>>>>> 2a63d2f (fixed color in id='fouth')
+=======
+    background-color: rgb(120, 247, 120);
+>>>>>>> 8ff275e (second excercise done)
     font-size: 24px;
     font-weight: bold;
 }
