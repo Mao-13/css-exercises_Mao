@@ -1,0 +1,14 @@
+button{
+    font-size: 36px;
+    border-color: #444444;
+}
+
+.first {
+    background-color: black;
+    color: white;
+}
+
+.second{
+    background-color: rgb(209, 206, 5);
+    color: black;
+}
