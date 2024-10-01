@@ -29,10 +29,14 @@
 
 #fourth{
 <<<<<<< HEAD
+<<<<<<< HEAD
     background-color: rgb(120, 247, 120);
 =======
     background-color: rgb(0 , 255, 0);
 >>>>>>> 858c96f (second excercise done)
+=======
+    background-color: rgb(134, 243, 134);
+>>>>>>> 2a63d2f (fixed color in id='fouth')
     font-size: 24px;
     font-weight: bold;
 }
