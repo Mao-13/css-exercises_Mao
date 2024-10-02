@@ -2,5 +2,8 @@ div p{
     background-color: yellow;
     color: red;
     font-size: 20px;
+<<<<<<< HEAD
     text-align: center;
+=======
+>>>>>>> d0fbeab (styled the p descendant from div)
 }
