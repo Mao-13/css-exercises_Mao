@@ -3,7 +3,11 @@ div p{
     color: red;
     font-size: 20px;
 <<<<<<< HEAD
+<<<<<<< HEAD
     text-align: center;
 =======
 >>>>>>> d0fbeab (styled the p descendant from div)
+=======
+    text-align: center;
+>>>>>>> 5a3e680 (corrected text alignment to center)
 }
